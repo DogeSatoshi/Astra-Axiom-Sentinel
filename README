@@ -52,7 +52,7 @@ Automatic detection of structural anomalies, high volatility swings, and liquidi
 
 Sentinel features a custom-built Material 3 terminal interface optimized for high-information density.
 
-![Sentinel UI](Sentinel UI.png)
+![alt text](<Sentinel UI.png>)
 
 The interface is designed for rapid information retrieval: open the application, execute a deep structural scan, and move on.
 
